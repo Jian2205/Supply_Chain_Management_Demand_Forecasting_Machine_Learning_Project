@@ -1,9 +1,9 @@
-# 📦 Supply Chain Management Demand Forecasting — Machine Learning Project
+# Supply Chain Management Demand Forecasting — Machine Learning Project
 
 **Author:** Jianlumei Kamei  
 **Internship:** 1-Month Internship at [Unified Mentor](https://unifiedmentor.com)
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to forecast the **Number of Products Sold** using machine learning techniques to help optimize supply chain operations. I built a tuned **Random Forest Regressor** model for prediction, and created an **interactive Streamlit dashboard** for user-friendly forecasting.
 
@@ -16,10 +16,10 @@ The entire workflow includes:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
-### 🧠 Machine Learning & Analysis
-- **Python 3.9+**
+###  Machine Learning & Analysis
+- **Python 3.13.3**
 - **Pandas** – data manipulation
 - **NumPy** – numerical operations
 - **Scikit-learn** – model building & evaluation
@@ -27,16 +27,16 @@ The entire workflow includes:
 - **Random Forest Regressor** – predictive modeling
 - **Joblib** – model saving
 
-### 🌐 Web App Dashboard
+### Web App Dashboard
 - **Streamlit** – for building the interactive prediction interface
 
-### 🧪 Model Tuning & Validation
+### Model Tuning & Validation
 - **RandomizedSearchCV** – hyperparameter tuning
 - **Train-Test Split**, **R² Score**, **MAE**, **RMSE**
 
 ---
 
-## 💻 How to Run This Project
+## How to Run This Project
 
 1. **Clone the Repository**
    ```bash
